@@ -1,7 +1,7 @@
 Cách 1:
 imodule https://github.com/lequangtuan123/stego_code_audio_phase/raw/refs/heads/main/stego_code_audio_phase.tar.xz
 
-labtainer -r stego_tool_h265_metadata
+labtainer -r stego_code_audio_phase
 
 Cách 2:
 git clone https://github.com/lequangtuan123/stego_code_audio_phase.git
