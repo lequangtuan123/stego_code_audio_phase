@@ -8,7 +8,7 @@ git clone https://github.com/lequangtuan123/stego_code_audio_phase.git
 
 cd stego_code_audio_phase
 
-tar -xvf stego_code_audio_phase.tar
+tar -xvf stego_code_audio_phase.tar.xz
 
 Sao chép thư mục vừa giải nén vào đường dẫn labtainer/trunk/labs
 
